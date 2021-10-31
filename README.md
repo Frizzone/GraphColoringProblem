@@ -1,3 +1,3 @@
 # GraphColoringProblem
 
-python /.solver /data/[FILENAME]
+python .\solver.py .\data\filename
